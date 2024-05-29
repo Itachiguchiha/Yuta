@@ -64,11 +64,11 @@ PM_START_TEXT = """
 buttons = [
     [
         InlineKeyboardButton(
-            text="➕ sᴜᴍᴍᴏɴ ᴍᴇ ➕",url="t.me/Yuta_ProXbot?startgroup=true"),
+            text="➕ sᴜᴍᴍᴏɴ ᴍᴇ ➕",url="t.me/Yumekoproxbot?startgroup=true"),
     ],
     [
         InlineKeyboardButton(
-            text="𝖲𝗎𝗉𝗉𝗈𝗋𝗍 ∘",url="t.me/ankakaaka"),
+            text="𝖲𝗎𝗉𝗉𝗈𝗋𝗍 ∘",url="https://t.me/infinity_anime_gang"),
         InlineKeyboardButton(
             text="𝖠𝖻𝗈𝗎𝗍 ∘", callback_data="_yuta"),              
     ],   
@@ -230,7 +230,7 @@ def start(update: Update, context: CallbackContext):
                     [
                         InlineKeyboardButton(
                             text="Support",
-                            url=f"https://t.me/gojo_support_chat",
+                            url=f"https://t.me/infinity_anime_gang",
                         ),
                     ]
                 ]
@@ -376,7 +376,7 @@ def yuta_about_callback(update, context):
             reply_markup=InlineKeyboardMarkup(
                 [
                  [
-                    InlineKeyboardButton(text="𝖲𝗎𝗉𝗉𝗈𝗋𝗍 ∘", url="https://t.me/The_Apexx"),                               
+                    InlineKeyboardButton(text="𝖲𝗎𝗉𝗉𝗈𝗋𝗍 ∘", url="https://t.me/infinity_anime_gang"),                               
                     InlineKeyboardButton(text="𝖴𝗉𝖽𝖺𝗍𝖾𝗌 ∘", url="t.me/daxai_updates"),                            
                  ],
                  [
@@ -408,7 +408,7 @@ It would be great if you would help us!""",
             reply_markup=InlineKeyboardMarkup(
                 [
                  [
-                    InlineKeyboardButton(text="Support", url="https://t.me/gojo_support_chat"),                               
+                    InlineKeyboardButton(text="Support", url="https://t.me/infinity_anime_gang"),                               
                     InlineKeyboardButton(text="NETWORK", url="https://t.me/auefgerfubefyuefh"),                            
                  ],
                  [
