@@ -377,7 +377,7 @@ def yuta_about_callback(update, context):
                 [
                  [
                     InlineKeyboardButton(text="𝖲𝗎𝗉𝗉𝗈𝗋𝗍 ∘", url="https://t.me/infinity_anime_gang"),                               
-                    InlineKeyboardButton(text="𝖴𝗉𝖽𝖺𝗍𝖾𝗌 ∘", url="t.me/daxai_updates"),                            
+                    InlineKeyboardButton(text="𝖴𝗉𝖽𝖺𝗍𝖾𝗌 ∘", url="https://t.me/yumeko_update"),                            
                  ],
                  [
                     InlineKeyboardButton(text="🏠", callback_data="donate_back")
@@ -409,7 +409,7 @@ It would be great if you would help us!""",
                 [
                  [
                     InlineKeyboardButton(text="Support", url="https://t.me/infinity_anime_gang"),                               
-                    InlineKeyboardButton(text="NETWORK", url="https://t.me/auefgerfubefyuefh"),                            
+                    InlineKeyboardButton(text="NETWORK", url="https://t.me/yumeko_update"),                            
                  ],
                  [
                     InlineKeyboardButton(text="🔙Back", callback_data="donate_back")
